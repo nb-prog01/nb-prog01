@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://socialify.git.ci/nb-prog01/nb-prog01/image?description=1&descriptionEditable=software%20developer%20with%20a%20love%20for%20coding%20and%20problem-solving&font=Jost&language=1&name=1&owner=1&pattern=Plus&theme=Auto" alt="nb-prog01" width="640" height="320" />
+<img src="https://socialify.git.ci/nb-prog01/nb-prog01/image?description=1&descriptionEditable=software%20developer%20with%20a%20love%20for%20coding%20and%20problem-solving&font=Jost&language=1&name=1&owner=1&pattern=Plus&theme=Auto" alt="nb-prog01" width="600" height="280" />
 </p>
 
 <p align="center">
