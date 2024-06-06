@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nb-prog01/nb-prog01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,6 +28,6 @@ Here are some ideas to get you started:
 <br>
 </p>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=nb-prog01&theme=onedark&column=-1" />
-</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nb-prog01&theme=react-dark)](https://github.com/nb-prog01/github-readme-activity-graph)
+
