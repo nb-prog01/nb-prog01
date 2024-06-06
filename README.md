@@ -18,16 +18,24 @@ Here are some ideas to get you started:
 <!-- <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p> -->
-![nb-prog01](https://socialify.git.ci/nb-prog01/nb-prog01/image?description=1&descriptionEditable=software%20developer%20with%20a%20love%20for%20coding%20and%20problem-solving&font=Jost&language=1&name=1&owner=1&theme=Light)
+<p align="center">
+<img src="https://socialify.git.ci/nb-prog01/nb-prog01/image?description=1&descriptionEditable=software%20developer%20with%20a%20love%20for%20coding%20and%20problem-solving&font=Jost&language=1&name=1&owner=1&pattern=Plus&theme=Auto" alt="nb-prog01" width="640" height="320" />
+</p>
 
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="nb-prog01's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  <img alt="nb-prog01's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <br>
 </p>
-
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-prog01&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  
+  <br />
+  <br />
+  <br />
+</div>
 
 [![nb-prog01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nb-prog01&theme=react-dark)](https://github.com/nb-prog01/github-readme-activity-graph)
 
