@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<br/>
-<br>
+<p align="center">
+<a href="www.linkedin.com/in/niraj-bhadoria-a8043a14a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 </p>
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-prog01&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
