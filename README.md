@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 <br/>
-<a href="[www.linkedin.com/in/niraj-bhadoria-a8043a14a](https://www.linkedin.com/in/niraj-bhadoria-a8043a14a/)">
-  <img alt="nb-prog01's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
 <br>
 </p>
 <div align="center">
